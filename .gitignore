@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+**/.gradle/
+
+# Archivos compilados
+**/build/
+
+# Configuración local
+local.properties
+
+# IntelliJ IDEA / Android Studio
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
